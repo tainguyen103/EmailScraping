@@ -1,24 +1,17 @@
-# Project: Name
+# Project: Web scraping utilizing Google Cloud API to extract companies' listed contact emails
 
 
 ## 1. Objective
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+The objective of this project is to scrape company emails using Google Cloud API and Google Search to collect data. The project accepts a Google Sheet input with names of company of interest and returns their website links and contact emails. This tool is helpful for those who want to obtain organization emails on a large scale. 
+
+DISCLAIMER: The tool should not be used to produce spam emails or disturb recipients. 
 
 
 ## 2. Process
-The following steps were followed in the project:
+Steps that were carried out in the project:
 
--  The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
--  The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.:
-     -  Job title
-     -  Company name
-     - Job description
-     - Job location
-     - Date posted
-- The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
-
-
+<img width="1791" alt="OutputSheet" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/2d2df915-ee8f-4a37-ad85-2efa40d2ed7a">
 
 ## 3. Tools
 
