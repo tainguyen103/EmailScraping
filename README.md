@@ -26,16 +26,18 @@ Steps that were carried out in the project:
 - Update the Google Sheet with information found
 
 
-## 4. Tools
+## 4. Tools 
 
-To run the code, you need to have the following installed on your machine:
+The following modules and packages were used in the implementation of this project:
 
 - Python 3
+- BeautifulSoup4
 - Selenium
 - Pandas
+- Google Colab
 
 ## 5. Programming Report 
-The code report can be found in the report.ipynb file in the root directory of the project.
+The code report can be found in the Report.ipynb file in the root directory of the project.
 
 
 ## 6. Contributor
