@@ -7,13 +7,23 @@ The objective of this project is to scrape company emails using Google Cloud API
 
 DISCLAIMER: The tool should not be used to produce spam emails or disturb recipients. 
 
+## 2. Demonstration
+Input:
+<img width="1791" alt="OutputSheet" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/2d2df915-ee8f-4a37-ad85-2efa40d2ed7a">
+Output:
+<img width="1791" alt="OutputSheet" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/0171f5b4-d129-4ebe-924f-987d2fd26630">
 
-## 2. Process
+
+## 3. Process
 Steps that were carried out in the project:
 
-<img width="1791" alt="OutputSheet" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/2d2df915-ee8f-4a37-ad85-2efa40d2ed7a">
+- Obtain a Google Sheet API authorization through Google Cloud API
+<img width="1791" alt="Screenshot 2023-10-27 at 23 37 35" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/9d34a020-9967-4da2-92de-5dbb0e0075b1">
+- Scrape company websites and emails utilizing serenium and Python
+- Update the Google Sheet with information found
 
-## 3. Tools
+
+## 4. Tools
 
 To run the code, you need to have the following installed on your machine:
 
@@ -21,11 +31,8 @@ To run the code, you need to have the following installed on your machine:
 - Selenium
 - Pandas
 
-## 4. Programming Report 
-The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English..
-
-## 5. Output Report
-The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+## 5. Programming Report 
+The code report can be found in the report.ipynb file in the root directory of the project.
 
 
 ## 6. Contributor
