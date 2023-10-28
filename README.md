@@ -9,7 +9,8 @@ DISCLAIMER: The tool should not be used to produce spam emails or disturb recipi
 
 ## 2. Demonstration
 Input:
-<img width="1791" alt="OutputSheet" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/2d2df915-ee8f-4a37-ad85-2efa40d2ed7a">
+<img width="1791" alt="InputSheet" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/dd472539-90ba-40c4-aece-ce1a34de8eb7">
+
 Output:
 <img width="1791" alt="OutputSheet" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/0171f5b4-d129-4ebe-924f-987d2fd26630">
 
@@ -19,7 +20,9 @@ Steps that were carried out in the project:
 
 - Obtain a Google Sheet API authorization through Google Cloud API
 <img width="1791" alt="Screenshot 2023-10-27 at 23 37 35" src="https://github.com/tainguyen103/EmailScraping/assets/108405800/9d34a020-9967-4da2-92de-5dbb0e0075b1">
+
 - Scrape company websites and emails utilizing serenium and Python
+  
 - Update the Google Sheet with information found
 
 
