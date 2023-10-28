@@ -3,9 +3,9 @@
 
 ## 1. Objective
 
-The objective of this project is to scrape company emails using Google Cloud API and Google Search to collect data. The project accepts a Google Sheet input with names of company of interest and returns their website links and contact emails. This tool is helpful for those who want to obtain organization emails on a large scale. 
+The goal of this project is to leverage the Google Cloud API and Google Search to retrieve company email addresses. The project is designed to process a Google Sheet input containing the names of specific companies and, in return, provide their website links and contact email information. This tool proves valuable for individuals seeking to acquire organization email data on a broader scale.
 
-DISCLAIMER: The tool should not be used to produce spam emails or disturb recipients. 
+DISCLAIMER: Please note that this tool should not be utilized for generating spam emails or causing disruption to recipients.
 
 ## 2. Demonstration
 Input:
